@@ -1,6 +1,7 @@
 import React from 'react';
 
 const ImageCard = ({ image }) => {
+  // Each word for each tag in a new 'tag' array is split into its own item
   const tags = image.tags.split(',');
 
   return (
