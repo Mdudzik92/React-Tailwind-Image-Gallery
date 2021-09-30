@@ -4,8 +4,7 @@ React Tailwind Image Gallery
 
 <!-- Live link to deployed app -->
 
-Repository: https://github.com/Mdudzik92/React-Tailwind-Image-Gallery<br>
-Deployed app: https://mdudzik92.github.io/JS-Tip-Calculator/
+Repository: https://github.com/Mdudzik92/React-Tailwind-Image-Gallery
 
 <!-- Technologies used -->
 
